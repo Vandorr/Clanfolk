@@ -11,6 +11,7 @@ Commit translations for Clanfolk into this repository to have include them to th
  * Portugese:
  * Romanian:
  * Turkish:
+ * Polish:
 
 
 # About Clanfolk
