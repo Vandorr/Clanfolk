@@ -6,12 +6,18 @@ Commit translations for Clanfolk into this repository to have include them to th
  * English: Main version by Blorf 
  * French: Translated by official
  * German: Translated by official
- * Chinese: Translated by official
- * Czech:
- * Portugese:
- * Romanian:
- * Turkish:
- * Polish:
+ * Simplified/Traditional Chinese: Translated by official
+ * Italian: Translated by official
+ * Spanish - Spain: Translated by official
+ * Japanese: Translated by official
+ * Korean: Translated by official
+ * Polish: Translated by official
+ * Portuguese Brazil: Translated by official
+ * Russian: Translated by official 
+ * Czech: 
+ * Romanian: Dl.Vulpe
+ * Turkish: Deimos
+ * Hungarian: Estilla, Vandorr
 
 
 # About Clanfolk
